@@ -2,7 +2,7 @@ package org.bdqn.entity;
 
 public class Person {
 	
-	//123456
+	//aaa
     private Integer id;
     //abc
     private String name;
